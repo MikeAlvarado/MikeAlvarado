@@ -1,6 +1,6 @@
 ## Hello there! 🌊
 
-- 🚢 I build things at [@Kodda](https://kodda.mx/).
+- 💜 I build things at [@Kodda](https://kodda.mx/).
 - 🌸 I have some web projects built with ReactJs ⚛️ and some Android apps with Kotlin 📱!
 - 🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
 
