@@ -1,8 +1,12 @@
 ## Hello there! 🌊
 
-- 💜 I build things at [@Kodda](https://kodda.mx/).
-- 🌸 I have some web projects built with ReactJs ⚛️ and some Android apps with Kotlin 📱!
-- 🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
+💜 I build things at [@Kodda](https://kodda.mx/).
+
+
+🌸 I have some web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
+
+
+🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
 
 <!--
 **MikeAlvarado/MikeAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
