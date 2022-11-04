@@ -1,6 +1,6 @@
 ## Hello there! 🌊
 
-💜 I build things at [@Kodda](https://kodda.mx/).
+💜 Tech [@Kodda](https://kodda.mx/).
 
 
 🌸 I have some web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
