@@ -8,7 +8,7 @@
 
 🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
 
-👋 Check out Kodda && subscribe to our newsletter here:
+🗞️ Check out Kodda && subscribe to our newsletter here:
 [![Kodda](https://i.imgur.com/phBWreq.png)](https://kodda.mx/)
 
 <!--
