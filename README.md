@@ -1,10 +1,10 @@
 ## Hello there! 🌊
 
 💜 We make having a healthy lifestyle easy, accessible and lasting for everyone. [@Kodda](https://kodda.mx/).
-  - Co-Founder && CTO
-  - Part of Y Combinator S21 Batch
+  - [Co-Founder && CTO](https://www.linkedin.com/in/mikealvaradol)
+  - [Part of Y Combinator S21 Batch](https://www.ycombinator.com/companies/kodda)
 
-🌸 I have some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
+👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
 
 🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
 
