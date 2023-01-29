@@ -24,7 +24,7 @@ Welcome to my README.md, here you can find some information about my work here:
 <a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check out Kodda && subscribe to our newsletter here" height="200" align="right"/></a>
 
 
-💜 I am a co-founder && CTO [Kodda](https://kodda.mx/), we make having a healthy lifestyle easy, accessible and lasting for everyone.
+💜 I co-founded and work as a tech in [Kodda](https://kodda.mx/), we make having a healthy lifestyle easy, accessible and lasting for everyone.
   - [Kodda was funded by Y Combinnator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
   - You can subscribe to our newsletter by clicking the image or [clicking here](https://kodda.mx)
 
