@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-mikealvaradol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikealvaradol/)](https://www.linkedin.com/in/mikealvaradol/)
 [![Twitter Badge](https://img.shields.io/badge/-@_mikealvaradol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikealvaradol)](https://twitter.com/mikealvaradol)
+[![Instagram Badge](https://img.shields.io/badge/-@_mikealvaradol-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mikealvaradol/)](https://instagram.com/mikealvaradol)
 
 <h3> 🛠️ I currently code : </h3>
 <p>
