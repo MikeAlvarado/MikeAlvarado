@@ -28,7 +28,7 @@ Welcome to my README.md, here you can find some information about myself here:
   - [Kodda was funded by Y Combinator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
   - You can subscribe to our newsletter by clicking the image or [clicking here](https://kodda.mx).
 
-👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
+👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & Swift 📱!
 
 🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
 
