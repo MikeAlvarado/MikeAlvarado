@@ -19,14 +19,14 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
-Welcome to my README.md, here you can find some information about my work here: 
+Welcome to my README.md, here you can find some information about myself here: 
 
 <a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check out Kodda && subscribe to our newsletter here" height="200" align="right"/></a>
 
 
-💜 I co-founded and work as a tech in [Kodda](https://kodda.mx/), we make having a healthy lifestyle easy, accessible and lasting for everyone.
+💜 I co-founded and work as a CTO in [Kodda](https://kodda.mx/), our mission is making a healthy lifestyle easy, accessible and lasting for everyone.
   - [Kodda was funded by Y Combinnator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
-  - You can subscribe to our newsletter by clicking the image or [clicking here](https://kodda.mx)
+  - You can subscribe to our newsletter by clicking the image or [clicking here](https://kodda.mx).
 
 👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
 
