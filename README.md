@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mikealvaradol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikealvaradol/)](https://www.linkedin.com/in/mikealvaradol/)
 [![Twitter Badge](https://img.shields.io/badge/-@_mikealvaradol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikealvaradol)](https://twitter.com/mikealvaradol)
 
-<h3>Things I currently code with</h3>
+<h3> 🛠️ I currently code : </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -31,7 +31,7 @@ Welcome to my README.md, here you can find some information about my work here:
 
 🦆 If you have any questions about my projects, you can send me a tweet [here](https://twitter.com/MikeAlvaradoL). 🙌
 
-### 📊 Github Stats
+<h3> 📊 My Github Stats : </h3>
 
 <a href="https://kodda.mx">
   <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
