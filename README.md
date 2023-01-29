@@ -25,7 +25,7 @@ Welcome to my README.md, here you can find some information about myself here:
 
 
 💜 I co-founded and work as a CTO in [Kodda](https://kodda.mx/), our mission is making a healthy lifestyle easy, accessible and lasting for everyone.
-  - [Kodda was funded by Y Combinnator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
+  - [Kodda was funded by Y Combinator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
   - You can subscribe to our newsletter by clicking the image or [clicking here](https://kodda.mx).
 
 👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & iOS 📱!
