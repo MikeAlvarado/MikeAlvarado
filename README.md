@@ -1,5 +1,4 @@
-
-## <img src="https://user-images.githubusercontent.com/9059670/215295863-0a22bed5-bb53-4cad-9d91-a775916d8c20.gif" alt="hello there!" width="30"/> Hello there! 
+## <img src="https://user-images.githubusercontent.com/9059670/216249068-2c4632b9-0f1a-4a23-9cd5-3049dc328365.png" alt="hello there!" width="36"/> Hello there! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mikealvaradol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikealvaradol/)](https://www.linkedin.com/in/mikealvaradol/)
 [![Twitter Badge](https://img.shields.io/badge/-@_mikealvaradol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikealvaradol)](https://twitter.com/mikealvaradol)
