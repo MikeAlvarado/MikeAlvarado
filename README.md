@@ -33,7 +33,7 @@ Welcome to my README.md, here you can find some information about myself here:
 
 <h3> 📊 My Github Stats : </h3>
 
-<a href="https://kodda.mx">
+<a href="https://www.linkedin.com/in/mikealvaradol/">
   <img src="https://user-images.githubusercontent.com/9059670/215300675-9dae9f85-f51f-4ba4-83df-b1712f149846.gif" width="55%" align="right"/>
 </a>
 
