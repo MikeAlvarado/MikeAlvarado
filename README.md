@@ -20,12 +20,12 @@
 
 Welcome to my README.md, here you can find some information about myself here: 
 
-<a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check out Kodda && subscribe to our newsletter here" height="200" align="right"/></a>
+<a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check our new landing" height="200" align="right"/></a>
 
 
 💜 Co-founder & Tech at [Kodda](https://kodda.mx/), our mission is making a healthy lifestyle easy, accessible and lasting for everyone.
   - [Kodda was funded by Y Combinator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
-  - You can subscribe to our newsletter by clicking the image or [clicking here](https://kodda.mx).
+  - Start a healthier lifestyle downloading our app, click on the image or [clicking here](https://kodda.mx).
 
 👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & Swift 📱!
 
