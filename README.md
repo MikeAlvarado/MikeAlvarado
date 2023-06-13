@@ -40,5 +40,4 @@ Welcome to my README.md, here you can find some information about myself here:
 ![Stats Overview](https://github.com/MikeAlvarado/github-stats-transparent/blob/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/MikeAlvarado/github-stats-transparent/output/generated/languages.svg)
 
-Thanks for coming by, you are: ![](https://visitor-badge.glitch.me/badge?page_id=mikealvaradol&left_color=purple&right_color=purple)
-
+<!-- Thanks for coming by, you are: ![](https://visitor-badge.glitch.me/badge?page_id=mikealvaradol&left_color=purple&right_color=purple) -->
