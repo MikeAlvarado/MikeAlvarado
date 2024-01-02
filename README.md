@@ -15,7 +15,7 @@
   <a href="https://www.npmjs.com/" ><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a href="https://firebase.google.com/" ><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=firebase&logoColor=white" /></a>
   <a href="https://nodejs.org/en/" ><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" ><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-yellow?style=flat-square&logo=typescript&logoColor=white" /></a>
 </p>
 
 Welcome to my README.md, here you can find some information about myself here: 
