@@ -9,7 +9,6 @@
   <a href="https://reactjs.org/" ><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="https://docs.github.com/en/actions" ><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
   <a href="https://cloud.google.com/" ><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://insomnia.rest/download" ><img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" /></a>
   <a href="https://cplusplus.com/doc/" ><img alt="C++" src="https://img.shields.io/badge/-++-1d229b?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://github.com/" ><img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.npmjs.com/" ><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
@@ -41,3 +40,4 @@ Welcome to my README.md, here you can find some information about myself here:
 ![Most Used Languages](https://raw.githubusercontent.com/MikeAlvarado/github-stats-transparent/output/generated/languages.svg)
 
 <!-- Thanks for coming by, you are: ![](https://visitor-badge.glitch.me/badge?page_id=mikealvaradol&left_color=purple&right_color=purple) -->
+
