@@ -20,7 +20,7 @@
 
 Welcome to my README.md, here you can find some information about myself here: 
 
-<a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check our new landing" height="200" align="right"/></a>
+<!-- <a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check our new landing" height="200" align="right"/></a> -->
 
 
 💜 Co-founder & Tech at [Kodda](https://kodda.mx/), our mission is making a healthy lifestyle easy, accessible and lasting for everyone.
