@@ -1,7 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/9059670/216249068-2c4632b9-0f1a-4a23-9cd5-3049dc328365.png" alt="hello there!" width="36"/> Hello there! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mikealvaradol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikealvaradol/)](https://www.linkedin.com/in/mikealvaradol/)
-[![Twitter Badge](https://img.shields.io/badge/-@_mikealvaradol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikealvaradol)](https://twitter.com/mikealvaradol)
+[![Twitter Badge](https://img.shields.io/badge/-@_mikealvaradol-black?style=flat&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/mikealvaradol)](https://twitter.com/mikealvaradol)
 [![Instagram Badge](https://img.shields.io/badge/-@_mikealvaradol-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mikealvaradol/)](https://instagram.com/mikealvaradol)
 
 <h3> 🛠️ I currently use : </h3>
