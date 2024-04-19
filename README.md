@@ -8,7 +8,7 @@
 <p>
   <a href="https://reactjs.org/" ><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="https://docs.github.com/en/actions" ><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
-  <a href="https://cloud.google.com/" ><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://cloud.google.com/" ><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"/></a>
   <a href="https://cplusplus.com/doc/" ><img alt="C++" src="https://img.shields.io/badge/-++-1d229b?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://github.com/" ><img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.npmjs.com/" ><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
@@ -19,12 +19,10 @@
 
 Welcome to my README.md, here you can find some information about myself here: 
 
-<!-- <a href="https://kodda.mx"><img src="https://i.imgur.com/phBWreq.png" alt="Check our new landing" height="200" align="right"/></a> -->
+💜 Co-founder & Tech at [Kodda](https://kodda.com/), we empower people to a lasting, healthier lifestyle through wellness programs and personalized support.
 
-
-💜 Co-founder & Tech at [Kodda](https://kodda.mx/), our mission is making a healthy lifestyle easy, accessible and lasting for everyone.
   - [Kodda was funded by Y Combinator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
-  - Start a healthier lifestyle downloading our app, click on the image or [clicking here](https://kodda.mx).
+  - Join our next batch [here](https://kodda.com/plan).
 
 👓 You can find here some (old) web projects built with ReactJs ⚛️ and some cool apps with Kotlin & Swift 📱!
 
