@@ -19,7 +19,7 @@
 
 Welcome to my README.md, here you can find some information about myself here: 
 
-💜 Co-founder & Tech at [Kodda](https://kodda.com/), we empower people to a lasting, healthier lifestyle through wellness programs and personalized support.
+💜 Co-founder & CEO at [Kodda](https://kodda.com/), we empower people to a lasting, healthier lifestyle through wellness programs and personalized support.
 
   - [Kodda was funded by Y Combinator as part of the S21 Batch](https://www.ycombinator.com/companies/kodda).
   - Join our next batch [here](https://kodda.com/plan).
