@@ -5,8 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_mikealvaradol-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mikealvaradol)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://mikealvaradol.web.app/en)
 
----
-
 ## 🛠️ Technologies I use
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -18,8 +16,6 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-1d229b?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=github&logoColor=white" />
 </p>
-
----
 
 ## 👋 About me  
 
